@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Her Şey Çok Güzel ve Güzel Olacak</title>
+    <style>
+        body {
+            background: linear-gradient(to bottom, #FFD1DC, #FFB6C1);
+            display: fle
